@@ -1,4 +1,4 @@
-# DemoUserAuthdotNet8
+# DemoUserAuth with ASP.Net8 and Identity
 
 ## Overview
 Demo User Auth is a Blazor application that demonstrates user authentication and authorization using .NET 8. This project showcases how to implement secure login, registration, and role-based access control in a Blazor application.
