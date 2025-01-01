@@ -18,5 +18,10 @@ namespace DemoUserAuth.Controllers
         {
             return View();
         }
+
+        public IActionResult VerifyEmail()
+        {
+            return View();
+        }
     }
 }
