@@ -1,7 +1,7 @@
-# DemoUserAuth# DemoUserAuth
+# DemoUserAuthdotNet8
 
 ## Overview
-DemoUserAuth is a Blazor application that demonstrates user authentication and authorization using .NET 8. This project showcases how to implement secure login, registration, and role-based access control in a Blazor application.
+Demo User Auth is a Blazor application that demonstrates user authentication and authorization using .NET 8. This project showcases how to implement secure login, registration, and role-based access control in a Blazor application.
 
 ## Features
 - User registration and login
@@ -19,8 +19,8 @@ DemoUserAuth is a Blazor application that demonstrates user authentication and a
 ### Installation
 1. Clone the repository:
 ```
- git clone https://github.com/pangdfg/DemoUserAuthwith.Net8.git
- cd DemoUserAuth.Net8
+ git clone https://github.com/pangdfg/DemoUserAuthdotNet8.git
+ cd DemoUserAuthdotNet8
 ```
 
 ### Running the Application
